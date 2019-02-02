@@ -6,22 +6,26 @@
 		<item value="true" key="internalFilter"/>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="22" key="DIALOG_X_ORIGIN"/>
-		<item value="70" key="DIALOG_Y_ORIGIN"/>
+		<item value="720" key="DIALOG_X_ORIGIN"/>
+		<item value="120" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="1012" key="dialogHeight"/>
 		<item value="576" key="dialogWidth"/>
 		<list key="textEntries">
+			<item value="1"/>
 			<item value="2"/>
 		</list>
 		<list key="orderedElements">
+			<item value="org.eclipse.equinox.p2.ui.sdk.update"/>
 			<item value="org.eclipse.ui.preferencePages.Keys"/>
 		</list>
 		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
 			<item value="org.eclipse.ui.preferences"/>
 		</list>
 		<list key="textArray">
+			<item value="update"/>
 			<item value="keymap"/>
 			<item value="keys"/>
 		</list>
@@ -33,8 +37,30 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="5" key="DIALOG_X_ORIGIN"/>
+		<item value="-275" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item value="0" key="sort"/>
+		<item value="false" key="allPersp"/>
+		<list key="columns">
+			<item value="199"/>
+			<item value="399"/>
+		</list>
+		<list key="bounds">
+			<item value="169"/>
+			<item value="45"/>
+			<item value="622"/>
+			<item value="448"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
