@@ -3,12 +3,9 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
-<fullyQualifiedTypeName name="org.junit.Before"/>
 <fullyQualifiedTypeName name="main.Friendships"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.TestSnippets.LambdaInterface"/>
 <fullyQualifiedTypeName name="com.TestSnippets.LambdasTest"/>
 <fullyQualifiedTypeName name="com.TestSnippets.Lambdas"/>
@@ -19,4 +16,12 @@
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="ttt.aaa.MathinatorTest"/>
 <fullyQualifiedTypeName name="ttt.aaa.Mathinator"/>
+<fullyQualifiedTypeName name="main.People"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="main.FriendsCollection"/>
+<fullyQualifiedTypeName name="java.net.UnknownHostException"/>
+<fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+<fullyQualifiedTypeName name="FriendsCollection"/>
 </qualifiedTypeNameHistroy>
