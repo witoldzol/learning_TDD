@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="com.TestSnippets.LambdaInterface"/>
 <fullyQualifiedTypeName name="com.TestSnippets.LambdasTest"/>
 <fullyQualifiedTypeName name="com.TestSnippets.Lambdas"/>
-<fullyQualifiedTypeName name="junit.framework.Assert"/>
 <fullyQualifiedTypeName name="ttt.aaa.MathinatorInterface"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
 <fullyQualifiedTypeName name="junit.framework.TestCase"/>
@@ -24,4 +23,7 @@
 <fullyQualifiedTypeName name="java.net.UnknownHostException"/>
 <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
 <fullyQualifiedTypeName name="FriendsCollection"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="DrawShape"/>
+<fullyQualifiedTypeName name="Triangle"/>
 </qualifiedTypeNameHistroy>
